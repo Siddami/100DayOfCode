@@ -7,5 +7,6 @@
 >2. Conditional Operators
 >3. Ternary Operators
 >4. Switch Statement
+>5. hhow to carry out various operations using conditional statements.
 
 

@@ -1,4 +1,4 @@
-# DAY 4 OF 30 DAYS OF CODE CHALLENGE
+# DAY 4 OF 100 DAYS OF CODE CHALLENGE
 
 >This part of the challenge includes various exercises to
 >help learn about the following;

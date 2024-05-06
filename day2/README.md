@@ -1,4 +1,4 @@
-# DAY 2 30 Days of JavaScript Project
+# DAY 2 100 Days of Code
 
 >On the day 2 of this study chalenge, the exercises included attempting
 > various programs to learn the following;

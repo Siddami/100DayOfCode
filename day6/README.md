@@ -13,3 +13,5 @@
 >>>>6. `includes()`
 >>>>7. `sort()`
 >>>>8. `indexOf()`
+
+### Asabenah 30 days of JS, day five

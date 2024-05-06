@@ -1,4 +1,4 @@
-# This is my attempt of the tasks for day one asabenah 30 days of javascript
+# 100 days of Code
 
 >On day One I learnt about the foolowing:
 >

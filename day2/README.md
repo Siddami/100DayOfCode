@@ -9,3 +9,5 @@
 >4. Reqular expression functions like (`replace()`, `match()`)
 >5. Requalr expression characters like (`g` for global and `i` for case insenstive)
 >6. Escape Charaters (`\`, `\n` etc)
+
+### Asabenah 30 days of JS, day two

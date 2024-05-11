@@ -29,3 +29,18 @@ dog.getDogInfo = function (){
 }
 
 console.log(dog.getDogInfo())
+
+
+var removeDuplicates = function(nums) {
+    var unique = [];
+    count = 0
+    for(n in nums){
+        if(!unique.includes(nums[n])){
+            count++
+            unique.push(count)
+        }
+    }
+    return unique; 
+};
+
+console.log(removeDuplicates([1,1,2]))

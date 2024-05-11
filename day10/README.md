@@ -14,4 +14,4 @@
 >Object.HasOwnProperty()
 
 
-### Asabenah 30 days of JS, day nine
+### Asabenah 30 days of JS, day eight

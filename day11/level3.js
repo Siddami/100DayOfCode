@@ -248,3 +248,8 @@ function likeProduct(productId, userId) {
     return "Product not found!";
   }
   console.log(likeProduct('aegfal'))
+
+var mergeTwoLists = function(list1, list2) {
+    return list1.concat(list2).sort()
+};
+console.log(mergeTwoLists([1,2,3],[1,1,2]))

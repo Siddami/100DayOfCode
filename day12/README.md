@@ -36,7 +36,7 @@ function reversePrint(llist) {
       }
       
       printReverse(node.next)
-      console.log(node.val)
+      console.log(node.data)
   }
   
   printReverse(llist)

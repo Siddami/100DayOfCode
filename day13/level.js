@@ -23,11 +23,15 @@ countries.forEach((callback) => {
 
 const names = ['Asabeneh', 'Mathias', 'Elias', 'Brook']
 //4. Use forEach to console.log each name in the names array.
-names.forEach((callback) => console.log(callback))
+names.forEach((callback) => {
+    console.log(callback)
+})
 
 const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 //5. Use forEach to console.log each number in the numbers array.
-numbers.forEach(callback => console.log(callback));
+numbers.forEach(callback => {
+    console.log(callback)
+});
 
 //6. Use map to create a new array by changing each country to uppercase in the countries array.
 const newCountriesArray = countries.map((callback) => callback.toUpperCase())

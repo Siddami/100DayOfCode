@@ -1,6 +1,6 @@
-# Exercise Report: Set and Map Operations
+# Day 15 #100DaysOfCode: Set and Map Operations
 
-This report summarizes a series of operations performed on sets and maps.
+This readme summarizes a series of operations performed on sets and maps.
 
 1. **Empty Set Creation:** An empty set named `emptySet` is created.
 

@@ -1,18 +1,12 @@
 ```markdown
-# Day 17 #100DaysOfCode
+# Day 18 #100DaysOfCode
 
-1. **Iterate through the users array and get all the keys of the object using destructuring:**
-   Extracted `name`, `scores`, `skills`, and `age` from each user object and printed their values.
+1. **Destructuring Countries Data:** Used destructuring to print the name, capital, population, and languages of all countries in an array of objects.
 
-2. **Find the persons who have less than two skills:**
-   Identified users with fewer than two skills and printed their names.
+2. **Student Data Destructuring:** Destructured an array to extract the student's name, skills, and specific scores into separate variables.
 
-3. **Destructure and assign the elements of constants array to variables:**
-   Assigned `e`, `pi`, `gravity`, `humanBodyTemp`, `waterBoilingTemp` from the constants array and logged the values.
+3. **Array to Object Conversion:** Created a function `convertArrayToObject` that converts an array of student data into an array of objects.
 
-4. **Destructure and assign the elements of countries array to variables:**
-   Assigned `fin`, `est`, `sw`, `den`, `nor` from the countries array and logged the values.
+4. **Immutable Object Copy and Update:** Copied a `studentInfo` object to `newStudent` without mutation, and updated `newStudent` with additional skills in various categories.
 
-5. **Destructure the rectangle object by its properties or keys:**
-   Extracted `width`, `height`, `area`, and `perimeter` from the rectangle object and logged the values.
-```
+5. **Updated Skill Sets:** Added new skills to the `frontEnd`, `backEnd`, `dataBase`, and `dataScience` categories in the `newStudent` object.

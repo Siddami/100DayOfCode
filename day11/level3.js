@@ -3,6 +3,8 @@
 //accountInfo,addIncome, addExpense and accountBalance methods.
 //Incomes is a set of incomes and its description and expenses is a set of incomes and its description.
 
+
+{}
 const personAccount = {
     firstName : 'Yetunde',
     lastName : 'Abdulkareem',

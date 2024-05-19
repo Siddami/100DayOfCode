@@ -107,3 +107,31 @@ const {dataScience} = skills;
 updatedDataScience = [...dataScience,'SQL'];
 skills.dataScience = updatedDataScience;
 console.log(newStudent);
+
+
+
+
+
+
+let s = 'oneTwoThree'
+
+let wordCount = 1
+
+function camelcase(s) {
+   if (!s){
+    return
+   }
+   
+   for(let i = 0; i < s.length; i++){
+     if(s[i].isUpperCase()){
+      wordCount += 1;
+     }
+   }
+
+   console.log(wordCount)
+}
+
+camelcase(s)
+
+
+

@@ -1,0 +1,10 @@
+# Day 20 100 Days Of Code
+
+## Exercise 1: Calculate Total Annual Income
+Extracted monthly and annual earnings from the text, calculated total annual income by parsing and summing up the values, resulting in a total income of 114000 euros per year.
+
+## Exercise 2: Find Furthest Distance Between Particles
+Parsed particle positions on the x-axis, filtered valid positions, and calculated the furthest distance between the two extreme particles, resulting in a maximum distance of 12 units.
+
+## Exercise 3: Validate JavaScript Variable Name
+Developed a regular expression pattern to validate JavaScript variable names and tested it against a sample input, confirming its correctness by evaluating 'first-Name' as invalid.

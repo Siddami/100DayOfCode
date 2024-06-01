@@ -1,4 +1,4 @@
-## Day 30: #100DaysOfCode - Local Storage Exercises and Key Takeaways
+## Day 32: #100DaysOfCode - Local Storage Exercises and Key Takeaways
 
 **Level 1:**
 

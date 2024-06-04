@@ -1,0 +1,1 @@
+#worked without electricity and studied on rpomises via a youtube video and writing on my notepad.

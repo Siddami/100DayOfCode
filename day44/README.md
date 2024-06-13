@@ -1,4 +1,3 @@
-```markdown
 # Day 44 of #100DaysOfCode: DOM Manipulation Project
 
 ## Overview

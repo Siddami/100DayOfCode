@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Montserrat;
+    font-size: 1rem;
+}
+
+
+#countries{
+    text-align: center;
+    margin: auto;
+    font-size: 1.02rem;
+    padding: 25px;
+    color: orange;
+    background-color:rgba(241, 241, 241, 0.932);
+    box-shadow: 1px 1px 1px 1px rgb(216, 214, 214);
+}
+
+h2{
+    font-size: 3rem;
+    margin: 5px;
+}
+
+.feedback{
+    color: #000;
+}
+
+
+.graph-buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+}
+
+button{
+    margin: 10px;
+    padding: 10px;
+    background-color: orange;
+    width: auto;
+    border: 0.5px solid orange;
+    border-radius: 2px;
+    font-size: 0.9rem;
+    cursor: pointer;
+}
+
+.graphs{
+    background-color: rgba(241, 241, 241, 0.932);
+    max-width: 100%;
+}
+
+.graph-title{
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+.graph-wrapper{
+    margin: 8px auto;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: space-evenly;
+    padding: 15px;
+    max-width: 80%;
+}

@@ -1,7 +1,7 @@
 # Portfolio Project - Day 51 of #100DaysOfCode
 
 ## Overview
-Welcome to my portfolio project! This exercise is part of my #100DaysOfCode challenge, where I aim to enhance my frontend development skills. On Day 44, I continued my deep dive into the Document Object Model (DOM) and practiced manipulating the UI using JavaScript.
+Welcome to my portfolio project! This exercise is part of my #100DaysOfCode challenge, where I aim to enhance my frontend development skills. On Day 51, I continued my deep dive into the Document Object Model (DOM) and practiced manipulating the UI using JavaScript.
 
 ## Thought Process
 ### Objective

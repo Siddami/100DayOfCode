@@ -1,0 +1,69 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leaderboard</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+   <div class="container">
+        <header class="heading">
+            <h2>100 Days Of Code Challenge Leaderboard</h2>
+            <div class="inputs">
+                <input type="text" placeholder="First Name" class="inpt" id="firstName">
+                <input type="text" placeholder="Last Name" class="inpt" id="lastName">
+                <input type="text" placeholder="country" class="inpt" id="country">
+                <input type="number" placeholder="Player Score" class="inpt" id="score">
+                <button class="inpt" id="btn">Add Player</button>
+            </div>
+            <p class="warning"></p>
+        </header>
+        <main class="Leaderboard">
+            <div class="playerBoard">
+                <span class="player">
+                    <p class="name">MARTHA YOHANES</p>
+                    <p class="date">JAN 30 2020 1:09</p>
+                </span>
+                <span class="country">FINLAND</span>
+                <span class="score">84</span>
+                <span class="circles">
+                    <button id="del" class="c">🗑</button>
+                    <button id="plus5" class="c">+5</button>
+                    <button id="minus5" class="c">-5</button>
+                </span>
+            </div>
+            <div class="playerBoard">
+                <span class="player">
+                    <p class="name">DAVID SMITH</p>
+                    <p class="date">JAN 30 2020 1:09</p>
+                </span>
+                <span class="country">UNITED KINGDOM</span>
+                <span class="score">80</span>
+                <span class="circles">
+                    <button id="del" class="c">🗑</button>
+                    <button id="plus5" class="c">+5</button>
+                    <button id="minus5" class="c">-5</button>
+                </span>
+            </div>
+            <div class="playerBoard">
+                <span class="player">
+                    <p class="name">ABDULKAREEM YETUNDE</p>
+                    <p class="date">JAN 30 2020 1:09</p>
+                </span>
+                <span class="country">NIGERIA</span>
+                <span class="score">75</span>
+                <span class="circles">
+                    <button id="del" class="c">🗑</button>
+                    <button id="plus5" class="c">+5</button>
+                    <button id="minus5" class="c">-5</button>
+                </span>
+            </div>
+        </main>
+
+   </div>
+
+
+    <script src="./countries.js"></script>
+    <script src="./index.js"></script>
+</body>
+</html>

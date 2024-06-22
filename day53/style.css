@@ -82,7 +82,7 @@ input::selection{
     text-align: center;
     justify-content: flex-start;
     align-items: space-evenly;
-    margin: 8px auto;
+    margin: 4px auto;
     padding: 30px;
     width: 100%;
 }
